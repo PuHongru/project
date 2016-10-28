@@ -277,9 +277,9 @@ header .main ul li a.active{
     }
 }
 /* 广告 */
-.ad{
+/*.ad{
     display: none;
-}
+}*/
 /* 平台特点 */
 .feature{
     width: 90%;
